@@ -24,10 +24,9 @@ st.markdown(
 )
 
 
-
 with header:
-    st.title('')
-    st.text('')
+    st.title('Football Analytics App')
+    st.text('In this project I try to improve my Python-Skills by playing around with NFL data')
 
 with dataset:
     st.header('')
